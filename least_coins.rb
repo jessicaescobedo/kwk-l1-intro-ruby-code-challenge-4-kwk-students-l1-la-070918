@@ -1,5 +1,3 @@
-#write out your code here
-
 def least_coins(cents)
   type = {
     :quarters => 0,

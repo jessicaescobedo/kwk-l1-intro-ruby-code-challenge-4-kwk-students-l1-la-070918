@@ -6,4 +6,4 @@ puts dimes = (cents)/10
 puts nickels = (cents)/5
 puts pennies = (cents)/1 
 end
-puts least_coins(29)
+puts least_coins(8)
